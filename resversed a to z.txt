@@ -1,0 +1,5 @@
+void main() {
+   List<String> myFriends = ['rajan','aryan','ravi','vishal','tanu',
+                            'krishan','sudhir','ram'];
+myFriends.sort();
+print('Descending order ( Z to A ) : ${myFriends.reversed}');}
